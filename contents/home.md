@@ -5,7 +5,7 @@
 I am currently pursuing a Bachelor's Degree in Computer Science and a minor in Psychology, at Southern Illinois University Edwardsville.
 
 #### Email
-keviste[at]siue.edu
+keviste@siue.edu
 
 #### Education
 Junior at Southern Illinois University Edwardsville
