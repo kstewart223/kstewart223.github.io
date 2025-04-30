@@ -1,8 +1,17 @@
-### Personal Website
-This website does not exist yet. If it did the link would go [HERE](https://kstewart223.github.io/).
+### Education
+ - Working on a Bachelor's in Computer Science
+    - GPA: 3.7
+    - Relevant Coursework: Database and Web System Development
+    - Honors: Dean's List for multiple semesters
 
-### Self Hosting Project
-This project does not exist yet, but it is something that I have wanted to do for a while. If it did exist, the link would go [HERE](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.windowsreport.com%2Fwp-content%2Fuploads%2F2020%2F03%2Ffix-BSoD-error-in-Windows-10.jpg&sp=1740204564Tab28e6b972776100b16b61375b11461ed5f268ade6874d5b9602084af56724c1).
+### Experience
+ - Digital Hummanities Fellowship
+    - Worked on a website about privacy
+    - presented the website at a conference
+    - worked with people in the field 
 
-### Video Game Project
-This project does not exist yet, but it is something that I have started to work on. If it did exist, the link would go [HERE](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.windowsreport.com%2Fwp-content%2Fuploads%2F2020%2F03%2Ffix-BSoD-error-in-Windows-10.jpg&sp=1740204564Tab28e6b972776100b16b61375b11461ed5f268ade6874d5b9602084af56724c1).
+
+### Projects
+ - Created a Website talking about privacy
+    - This website was showcased at a student conference
+    - [Here](https://github.com/kstewart223/Scrolly-Telling-Privacy)
